@@ -1,0 +1,29 @@
+#image {
+    max-width: 100%;
+    height: auto;
+  }
+  #title {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 50;
+    text-align: center;
+  }
+  
+  #img-caption {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 12;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    font-family: 'IBM Plex Sans', sans-serif;
+  text-align: center;
+  }
+  
+  #tribute-link {
+    font-family: 'IBM Plex Sans', sans-serif;
+  text-align: center;
+  }
+  
+  img {
+    display: block;
+  }
